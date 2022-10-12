@@ -3,14 +3,10 @@
 
 #### 👨🏻‍💻 &nbsp;About Me 
 
-- 🔭 I’m currently working on a Wechat Miniprogram.
-- 🌱 I’m currently learning JavaScript and React.
-- 👯 I’m looking to collaborate on any interesting frontend projects.
-- 🤔 I’m looking for help with Taro's documentation.
-- 💬 Ask me about tech, language learining methods.
-- 📫 How to reach me: [Weibo-@__PPY](https://weibo.com/hsy922)
+- 🔭 I’m currently looking for a frontend job.
+- 🌱 I’m currently learning react.js and wechat mini program.
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: Huge Harry Potter Fan/ Crazy about solving problems
+- ⚡ Fun fact: Huge Harry Potter Fan/ Sports lover(running and water sports)
 
 
 #### 🛠 &nbsp;Tech Stack
