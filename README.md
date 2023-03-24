@@ -4,7 +4,7 @@
 #### 👨🏻‍💻 &nbsp;About Me 
 
 - 🔭 I’m currently looking for a frontend job.
-- 🌱 I’m currently learning react.js and wechat mini program.
+- 🌱 I’m currently learning TypeScript.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: Huge Harry Potter Fan/ Sports lover(running and water sports)
 
